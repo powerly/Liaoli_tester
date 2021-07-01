@@ -1,0 +1,21 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "M站业务流",
+    "children" : [ {
+      "name" : "开始执行。。。",
+      "uid" : "faf1ad71fbd1a5ee",
+      "parentUid" : "e8363f58d2a3664ca955f143a8c8c657",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624527810313,
+        "stop" : 1624527810982,
+        "duration" : 669
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "e8363f58d2a3664ca955f143a8c8c657"
+  } ]
+}

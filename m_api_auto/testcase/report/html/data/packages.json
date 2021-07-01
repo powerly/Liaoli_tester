@@ -1,0 +1,21 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test_flow1",
+    "children" : [ {
+      "name" : "开始执行。。。",
+      "uid" : "faf1ad71fbd1a5ee",
+      "parentUid" : "485edbabc2dda67625c0d122355504fb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624527810313,
+        "stop" : 1624527810982,
+        "duration" : 669
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "485edbabc2dda67625c0d122355504fb"
+  } ]
+}

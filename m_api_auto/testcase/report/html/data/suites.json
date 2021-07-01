@@ -1,0 +1,25 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_flow1",
+    "children" : [ {
+      "name" : "TestMain",
+      "children" : [ {
+        "name" : "开始执行。。。",
+        "uid" : "faf1ad71fbd1a5ee",
+        "parentUid" : "32ce04893888c92d53697f650c114005",
+        "status" : "passed",
+        "time" : {
+          "start" : 1624527810313,
+          "stop" : 1624527810982,
+          "duration" : 669
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "32ce04893888c92d53697f650c114005"
+    } ],
+    "uid" : "821e523b856061bb2ad669dbacd51fad"
+  } ]
+}

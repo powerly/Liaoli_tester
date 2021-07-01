@@ -1,0 +1,6 @@
+[32mINFO    [0m /api/v1/class/findGradeList:gs_logs.py:28 ****************************************
+[32mINFO    [0m /api/v1/class/findGradeList:gs_logs.py:28 url= /api/v1/class/findGradeList
+[32mINFO    [0m /api/v1/class/findGradeList:gs_logs.py:28 req_params= {}
+[32mINFO    [0m /api/v1/class/findGradeList:gs_logs.py:28 status_code=200
+[32mINFO    [0m /api/v1/class/findGradeList:gs_logs.py:28 resp_body={"code":"200","data":{"itemList":[{"name":"小班","value":-2},{"name":"中班","value":-1},{"name":"大班","value":0},{"name":"一年级","value":1},{"name":"二年级","value":2},{"name":"三年级","value":3},{"name":"四年级","value":4},{"name":"五年级","value":5},{"name":"六年级","value":6},{"name":"初一","value":7},{"name":"初二","value":8},{"name":"初三","value":9},{"name":"高一","value":10},{"name":"高二","value":11},{"name":"高三","value":12}]}}
+[32mINFO    [0m /api/v1/class/findGradeList:gs_logs.py:28 ****************************************

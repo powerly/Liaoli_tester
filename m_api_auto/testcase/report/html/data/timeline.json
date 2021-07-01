@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-SGH7CMM",
+    "children" : [ {
+      "name" : "42476-MainThread",
+      "children" : [ {
+        "name" : "开始执行。。。",
+        "uid" : "faf1ad71fbd1a5ee",
+        "parentUid" : "e5e05566278cf72eb21a2dcf06618d25",
+        "status" : "passed",
+        "time" : {
+          "start" : 1624527810313,
+          "stop" : 1624527810982,
+          "duration" : 669
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e5e05566278cf72eb21a2dcf06618d25"
+    } ],
+    "uid" : "8dba12a1e82e11e7bace63a2eb8c674d"
+  } ]
+}
